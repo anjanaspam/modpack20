@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-06 22:50:30</sys_created_on>
+        <sys_id>b75fe616530310109d3addeeff7b12b1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_fxi_ktestauthor1_cust_v1.x_fxi_ktestauthor1.cust_v1_user</sys_name>
+        <sys_package display_value="ktestauthor1" source="x_fxi_ktestauthor1">cc7503505c431010f877bffc631fdc68</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ktestauthor1">cc7503505c431010f877bffc631fdc68</sys_scope>
+        <sys_security_acl display_value="x_fxi_ktestauthor1_cust_v1">775fe616530310109d3addeeff7b12ae</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_b75fe616530310109d3addeeff7b12b1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-06 22:50:30</sys_updated_on>
+        <sys_user_role display_value="x_fxi_ktestauthor1.cust_v1_user" name="x_fxi_ktestauthor1.cust_v1_user">a35fe616530310109d3addeeff7b1248</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="ktestauthor1">cc7503505c431010f877bffc631fdc68</claim_owner_scope>
+        <claim_timestamp>174659d9bc00000001</claim_timestamp>
+        <metadata_update_name>sys_security_acl_role_b75fe616530310109d3addeeff7b12b1</metadata_update_name>
+        <previous_claim_app_version>1.0.1</previous_claim_app_version>
+        <previous_claim_name>ktestauthor1</previous_claim_name>
+        <previous_claim_scope>cc7503505c431010f877bffc631fdc68</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-06 22:51:01</sys_created_on>
+        <sys_id>d37faa16530310109d3addeeff7b1205</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-06 22:51:01</sys_updated_on>
+    </sys_claim>
+</record_update>
